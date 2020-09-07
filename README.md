@@ -1,8 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+1. Download the zip file and extract it or clone it.
+2. npm i, run this command to install all equired node modules
+3. npm start
+
+
+
+All the given guidlines are followed, at the there is a box to display the data .
+
 ## Available Scripts
 
+
+
 In the project directory, you can run:
+
+### npm start 
+
+or
+
 
 ### `yarn start`
 
